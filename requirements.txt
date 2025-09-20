@@ -1,0 +1,5 @@
+# requirements.txt
+streamlit>=1.32
+pandas>=2.2
+altair>=5.0
+chardet>=5.2      # 文字コード自動判定で使用（fallback）
